@@ -1,0 +1,12 @@
+audio{
+    height: 20px;
+    width: auto;
+}
+video{
+    height: 500px;
+    width: 100px;
+}
+img{
+    height: 200px;
+    width: 100px;
+}
